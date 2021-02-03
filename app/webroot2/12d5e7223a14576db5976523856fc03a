@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sessions>
+  <session year="2014" session="nov" level="0">
+    <centre centreNumber="010066">
+      <candidate Number="2001" name="Taurai" surname="Moyo">
+        <subject code="1122" grade="C" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="B" />
+        <subject code="5007" grade="B" />
+      </candidate>
+	  <candidate Number="2005" name="David" surname="Dube">
+        <subject code="4008" grade="A" />
+        <subject code="1122" grade="C" />
+        <subject code="3015" grade="A" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="B" />
+        <subject code="5007" grade="B" />
+        <subject code="5005" grade="B" />
+        <subject code="5003" grade="D" />
+      </candidate>
+    </centre>
+	 <centre centreNumber="040012">
+      <candidate Number="1909" name="Chipo" surname="Ncube">
+        <subject code="4008" grade="B" />
+        <subject code="1122" grade="C" />
+        <subject code="3015" grade="D" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="A" />
+        <subject code="5007" grade="C" />
+      </candidate>
+	   <candidate Number="1910" name="Tendi" surname="Made">
+        <subject code="4008" grade="A" />
+        <subject code="1122" grade="A" />
+        <subject code="3015" grade="A" />
+        <subject code="5008" grade="A" />
+        <subject code="5006" grade="A" />
+        <subject code="5007" grade="A" />
+      </candidate>
+	   <candidate Number="1970" name="Susan" surname="Marime">
+        <subject code="4008" grade="B" />
+        <subject code="1122" grade="B" />
+        <subject code="3015" grade="A" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="B" />
+        <subject code="5007" grade="B" />
+      </candidate>
+    </centre>
+  </session>
+  <session year="2014" session="jun" level="0">
+    <centre centreNumber="022066">
+      <candidate Number="2001" name="Pamela" surname="Matambo">
+        <subject code="4008" grade="C" />
+        <subject code="1122" grade="B" />
+        <subject code="3015" grade="B" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="B" />
+      </candidate>
+	  <candidate Number="2005" name="Freeman" surname="Sibanda">
+        <subject code="4008" grade="A" />
+        <subject code="1122" grade="C" />
+        <subject code="3015" grade="D" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="B" />
+        <subject code="5007" grade="B" />
+        <subject code="5005" grade="E" />
+        <subject code="5003" grade="B" />
+      </candidate>
+    </centre>
+	 <centre centreNumber="033312">
+      <candidate Number="3200" name="Tanaka" surname="Maseko">
+        <subject code="4008" grade="B" />
+        <subject code="1122" grade="C" />
+        <subject code="3015" grade="D" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="A" />
+        <subject code="5007" grade="C" />
+      </candidate>
+	   <candidate Number="3009" name="Ishmael" surname="Murinda">
+        <subject code="4008" grade="A" />
+        <subject code="1122" grade="A" />
+        <subject code="3015" grade="A" />
+        <subject code="5008" grade="A" />
+        <subject code="5006" grade="C" />
+        <subject code="5007" grade="A" />
+      </candidate>
+	   <candidate Number="3100" name="Natasha" surname="Banda">
+        <subject code="4008" grade="D" />
+        <subject code="1122" grade="B" />
+        <subject code="3015" grade="A" />
+        <subject code="5008" grade="B" />
+        <subject code="5006" grade="C" />
+        <subject code="5012" grade="B" />
+        <subject code="5017" grade="B" />
+        <subject code="5022" grade="U" />
+        <subject code="5025" grade="B" />
+      </candidate>
+    </centre>
+  </session>
+</sessions>
